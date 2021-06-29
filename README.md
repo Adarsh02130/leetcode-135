@@ -1,7 +1,7 @@
 # leetcode-135
 #candy 
 
-class Solution {
+/*class Solution {
     public int candy(int[] ratings) {
         int candies = 0, n = ratings.length;
         int[] left = new int[n];
@@ -23,4 +23,4 @@ class Solution {
         
         return candies;
     }
-}
+}*/
